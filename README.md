@@ -13,4 +13,4 @@ Q & A section project with + that is showing answer on question and - icon that 
 
 # Live
 
-Check it out [Live](https://stankovics.github.io/JSQ&A.github.io)
+Check it out [Live](https://stankovics.github.io/JSQ-A.github.io/)
